@@ -1,3 +1,7 @@
+"""
+Written by Barclay Zhang with assistance of the book Deep Reinforcement learning Hands on.
+"""
+
 from collections import deque,namedtuple
 import random
 import numpy as np

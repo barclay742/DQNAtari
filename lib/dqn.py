@@ -1,3 +1,8 @@
+"""
+Written by Barclay Zhang with assistance of the book Deep Reinforcement learning Hands on.
+"""
+
+
 import torch
 import torch.nn as nn
 import numpy as np
