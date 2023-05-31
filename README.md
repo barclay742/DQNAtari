@@ -12,4 +12,3 @@ Be sure to use non Ram versions as the program uses pixels as inputs instead.
   
 The full list of arguments available can be accessed with python Atari_dqn.py -h 
   
-The project was constructed with assistance of the book "Deep Reinforcement Learning Hands-on"
